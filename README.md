@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arkanere
-- 👀 I’m interested analytics and product management
-- 🌱 I’m currently working on projects to provide best user experience to solve certain popular asks.  
+- 👀 I’m interested building digital products and applied AI
+ 
 
 <!---
 arkanere/arkanere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
