@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @arkanere
-- 👀 I’m interested building digital products and applied AI
- 
+# Hi, I'm Aniruddha 👋
 
-<!---
-arkanere/arkanere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build and operate software solo, end to end — product, code, and production ops.
+
+- **[Solar Vipani](https://solarvipani.com)** — production solar marketplace for India & the US · SvelteKit, Postgres, RAG chatbot → [`solar-app`](https://github.com/arkanere/solar-app)
+- **[CallSafe](https://callsafe.tech)** — distributed voice/video calling (beta) · Elixir/OTP signaling, WebRTC, Flutter, FCM wake-up → [`callsafe`](https://github.com/arkanere/callsafe)
+- Currently exploring agent architectures from first principles → [`agent-patterns-from-scratch`](https://github.com/arkanere/agent-patterns-from-scratch)
